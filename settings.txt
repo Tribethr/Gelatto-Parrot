@@ -1,0 +1,1 @@
+{"maxBalls":4,"orderTime":20,"priorityOrderProbability":20,"maxTopping":3,"maxOrder":5,"minOrder":1}

@@ -1,0 +1,14 @@
+{
+"0":{"tipo":"bola","sabor":"Fresa","idImagen":"rojo","id":"0"},
+"1":{"tipo":"bola","sabor":"Chocolate","idImagen":"cafe","id":"1"},
+"2":{"tipo":"bola","sabor":"Vainilla","idImagen":"amarillo","id":"2"},
+"3":{"tipo":"bola","sabor":"Chicle","idImagen":"azul","id":"3"},
+"4":{"tipo":"bola","sabor":"Menta","idImagen":"cyan","id":"4"},
+"5":{"tipo":"bola","sabor":"Mora","idImagen":"morado","id":"5"},
+"6":{"tipo":"bola","sabor":"Limon","idImagen":"verde","id":"6"},
+"7":{"tipo":"bola","sabor":"Naranja","idImagen":"naranja","id":"7"},
+"8":{"tipo":"bola","sabor":"Durazno","idImagen":"cafeClaro","id":"8"},
+"9":{"tipo":"topping","sabor":"Mani","idImagen":"mani","id":"9"},
+"10":{"tipo":"topping","sabor":"Rayos","idImagen":"galleta","id":"10"},
+"11":{"tipo":"topping","sabor":"Puntos","idImagen":"chispas","id":"11"}
+}
